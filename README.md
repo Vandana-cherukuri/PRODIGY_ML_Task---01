@@ -1,7 +1,8 @@
 # PRODIGY_ML_Task---02README for "aaat - Colab"
 Overview
 
-This project demonstrates the application of K-Means Clustering on a dataset to identify distinct customer segments. The dataset (mall.csv) contains information about customers, including their demographics and purchasing behavior. The project utilizes Python and various data visualization and machine learning libraries to preprocess data, explore patterns, and cluster the data.
+This project demonstrates the 
+application of K-Means Clustering on a dataset to identify distinct customer segments. The dataset (mall.csv) contains information about customers, including their demographics and purchasing behavior. The project utilizes Python and various data visualization and machine learning libraries to preprocess data, explore patterns, and cluster the data.
 
 Dataset
 
